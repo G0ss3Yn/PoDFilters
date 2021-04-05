@@ -14807,4 +14807,4 @@ ItemDisplay[NMAG !RW ID (ARMOR OR WEAPON) CLVL>29]: {%NAME%} // At level 30+, st
 // |                                                                            |
 // +----------------------------------------------------------------------------+
 //ItemDisplay[ID]: %NAME% // Showing all ID items
-ItemDisplay[]: %RED%+++ NO FILTER LINE +++ // Catching all other things for debug
+//ItemDisplay[]: %RED%+++ NO FILTER LINE +++ // Catching all other things for debug
