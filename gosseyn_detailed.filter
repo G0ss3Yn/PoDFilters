@@ -174,10 +174,10 @@ ItemDisplay[tr2]: %GOLD%Scroll of Resistance%MAP-58%{%TAN%All Resistances +10%NL
 // ------------------------------------------------------------------------------
 // [QIES] Essences
 // ------------------------------------------------------------------------------
-ItemDisplay[tes]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Drops from NM & Hell Andarial & Duriel%NL%Cube w/ Terror, Hatred, & Destruction essences%NL%} // Twisted Essence of Suffering
-ItemDisplay[ceh]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Drops from NM & Hell Mephisto%NL%Cube w/ Terror, Destruction, & Suffering essences%NL%} // Charged Essence of Hatred
-ItemDisplay[bet]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Drops from NM & Hell Diablo%NL%Cube w/ Hatred, Destruction, & Suffering essences%NL%} // Burning Essence of Terror
-ItemDisplay[fed]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Drops from NM & Hell Baal%NL%Cube w/ Terror, Hatred, & Suffering essences%NL%} // Festering Essence of Destruction
+ItemDisplay[tes]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from NM & Hell Andarial & Duriel%NL%Cube w/ Terror, Hatred, & Destruction essences%NL%} // Twisted Essence of Suffering
+ItemDisplay[ceh]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from NM & Hell Mephisto%NL%Cube w/ Terror, Destruction, & Suffering essences%NL%} // Charged Essence of Hatred
+ItemDisplay[bet]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from NM & Hell Diablo%NL%Cube w/ Hatred, Destruction, & Suffering essences%NL%} // Burning Essence of Terror
+ItemDisplay[fed]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from NM & Hell Baal%NL%Cube w/ Terror, Hatred, & Suffering essences%NL%} // Festering Essence of Destruction
 
 // ------------------------------------------------------------------------------
 // [QITO] Tokens
@@ -187,17 +187,17 @@ ItemDisplay[toa]: %ORANGE%Token of Absolution%MAP-68%{%TAN%Right click to reset 
 // ------------------------------------------------------------------------------
 // [QIKE] Pandemonium Keys
 // ------------------------------------------------------------------------------
-ItemDisplay[pk1]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Drops from Countess & Blood Raven%NL%Cube w/ Destruction & Hate keys in Act 5%NL%} // Key of Terror
-ItemDisplay[pk2]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Drops from Summoner & Bloodwitch the Wild%NL%Cube w/ Destruction & Terror keys in Act 5%NL%} // Key of Hate
-ItemDisplay[pk3]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Drops from Nihlathak & Izual%NL%Cube w/ Hate & Terror keys in Act 5%NL%} // Key of Destruction
+ItemDisplay[pk1]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Countess & Blood Raven%NL%Cube w/ Destruction & Hate keys in Act 5%NL%} // Key of Terror
+ItemDisplay[pk2]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Summoner & Bloodwitch the Wild%NL%Cube w/ Destruction & Terror keys in Act 5%NL%} // Key of Hate
+ItemDisplay[pk3]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Nihlathak & Izual%NL%Cube w/ Hate & Terror keys in Act 5%NL%} // Key of Destruction
 
 // ------------------------------------------------------------------------------
 // [QIOR] Pandemonium Organs
 // ------------------------------------------------------------------------------
-ItemDisplay[mbr]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Act 5 to open Uber Trist%NL%Cube any 3 organs in%NL%} // Mephisto's Brain
-ItemDisplay[dhn]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Act 5 to open Uber Trist%NL%Cube any 3 organs in%NL%} // Diablo's Horn
-ItemDisplay[bey]: %ORANGE%%NAME% x%QTY%%MAP-68%{%TAN%Act 5 to open Uber Trist%NL%Cube any 3 organs in%NL%} // Baal's Eye
-ItemDisplay[std]: %NAME% x%QTY%%MAP-68%{%TAN%+20% Magic/Gold Find%NL%+20% Monster Density%NL%+10% Experience%NL%%ORANGE%Cube w/ a map to gain%DARK_GREEN% Heroic%ORANGE% bonus:} // Standard of Heroes
+ItemDisplay[mbr]: %ORANGE%%NAME% %MAP-68%{%TAN%Act 5 to open Uber Trist%NL%Cube any 3 organs in%NL%} // Mephisto's Brain
+ItemDisplay[dhn]: %ORANGE%%NAME% %MAP-68%{%TAN%Act 5 to open Uber Trist%NL%Cube any 3 organs in%NL%} // Diablo's Horn
+ItemDisplay[bey]: %ORANGE%%NAME% %MAP-68%{%TAN%Act 5 to open Uber Trist%NL%Cube any 3 organs in%NL%} // Baal's Eye
+ItemDisplay[std]: %NAME% %MAP-68%{%TAN%+20% Magic/Gold Find%NL%+20% Monster Density%NL%+10% Experience%NL%%ORANGE%Cube w/ a map to gain%DARK_GREEN% Heroic%ORANGE% bonus:} // Standard of Heroes
 
 // +----------------------------------------------------------------------------+
 // |                                                                            |
@@ -213,12 +213,12 @@ ItemDisplay[lbox]: %PURPLE%+ %RED%Larzuks Puzzlebox x%QTY% %PURPLE%+%RED%%MAP-62
 // ------------------------------------------------------------------------------
 // [MAPI] Map Items
 // ------------------------------------------------------------------------------
-ItemDisplay[rera]: %NAME% x%QTY%{%TAN%Rune or Greater, & Rare Map%NL%Cube w/ Perfect Gem, Thul%NL%%ORANGE%Reroll Rare Map%NL%} // Reroll Rare Map (Horadrim Orb)
-ItemDisplay[imra]: %NAME% x%QTY%{%TAN%or Greater, & White Map%NL%Cube w/ Jewel, Thul Rune%NL%%ORANGE%Imbue Rare Map%NL%} // Imbue Rare Map (Zakarum Orb)
-ItemDisplay[upma]: %NAME% x%QTY%{%TAN%Rune or Greater, & Magic Map%NL%Cube w/ Perfect Skull, Thul%NL%%ORANGE%Upgrade Magic to Rare%NL%} // Upgrade Magic Map to Rare Map (Angelic Orb)
-ItemDisplay[imma]: %NAME% x%QTY%{%TAN%& White Map%NL%Cube w/ Jewel,%NL%%ORANGE%Imbue Magic Map%NL%} // Imbue Magic Map (Arcane Orb)
-ItemDisplay[scou]: %NAME% x%QTY%{%TAN%Magic or Rare Map%NL%Cube w/ Hel Rune &%NL%%ORANGE%Purge Map%NL%} // Purge Map (Removes Mods and Reverts back to a White Map) (Orb of Destruction)
-ItemDisplay[upmp]: %NAME% x%QTY%{%TAN%to get a map of the next tier%NL%Cube 3 maps of the same tier%NL%%ORANGE%Uptier Maps%NL%} // Cartographer's Orb
+ItemDisplay[rera]: %NAME% {%TAN%Rune or Greater, & Rare Map%NL%Cube w/ Perfect Gem, Thul%NL%%ORANGE%Reroll Rare Map%NL%} // Reroll Rare Map (Horadrim Orb)
+ItemDisplay[imra]: %NAME% {%TAN%or Greater, & White Map%NL%Cube w/ Jewel, Thul Rune%NL%%ORANGE%Imbue Rare Map%NL%} // Imbue Rare Map (Zakarum Orb)
+ItemDisplay[upma]: %NAME% {%TAN%Rune or Greater, & Magic Map%NL%Cube w/ Perfect Skull, Thul%NL%%ORANGE%Upgrade Magic to Rare%NL%} // Upgrade Magic Map to Rare Map (Angelic Orb)
+ItemDisplay[imma]: %NAME% {%TAN%& White Map%NL%Cube w/ Jewel,%NL%%ORANGE%Imbue Magic Map%NL%} // Imbue Magic Map (Arcane Orb)
+ItemDisplay[scou]: %NAME% {%TAN%Magic or Rare Map%NL%Cube w/ Hel Rune &%NL%%ORANGE%Purge Map%NL%} // Purge Map (Removes Mods and Reverts back to a White Map) (Orb of Destruction)
+ItemDisplay[upmp]: %NAME% {%TAN%to get a map of the next tier%NL%Cube 3 maps of the same tier%NL%%ORANGE%Uptier Maps%NL%} // Cartographer's Orb
 ItemDisplay[scrb]: %NAME%%MAP-62%{%TAN%these are intended for groups!%NL%%RED%WARNING:%NL%%NL%%TAN%create a group dungeon%NL%Cube w/ a Tier 3 map to%NL%%ORANGE%Create Group Dungeon%NL%} // Horadrim Scarab
 
 // ------------------------------------------------------------------------------
@@ -285,9 +285,9 @@ ItemDisplay[RARE (t10 OR t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR
 // ------------------------------------------------------------------------------
 // [DCLO] Diablo Clone Items
 // ------------------------------------------------------------------------------
-ItemDisplay[dcho]: %PURPLE%+ %RED%Black Soulstone x%QTY% %PURPLE%+%MAP-62%{%TAN%Drops from Uber Trist bosses%NL%%NL%& Pure Demonic Essence%NL%Cube w/ Prime Evil Soul} // Black Soulstone
-ItemDisplay[dcso]: %PURPLE%+ %RED%Prime Evil Soul x%QTY% %PURPLE%+%MAP-62%{%TAN%Drops from Hell Diablo & Baal%NL%%NL%& Pure Demonic Essence%NL%Cube w/ Black Soulstone} // Prime Evil Soul
-ItemDisplay[dcbl]: %PURPLE%+ %RED%Pure Demonic Essence x%QTY% %PURPLE%+%MAP-62%{%TAN%Drops from map bosses%NL%%NL%& Prime Evil Soul%NL%Cube w/ Black Soulstone} // Pure Demonic Essence
+ItemDisplay[dcho]: %PURPLE%+ %RED%Black Soulstone %PURPLE%+%MAP-62%{%TAN%Drops from Uber Trist bosses%NL%%NL%& Pure Demonic Essence%NL%Cube w/ Prime Evil Soul} // Black Soulstone
+ItemDisplay[dcso]: %PURPLE%+ %RED%Prime Evil Soul %PURPLE%+%MAP-62%{%TAN%Drops from Hell Diablo & Baal%NL%%NL%& Pure Demonic Essence%NL%Cube w/ Black Soulstone} // Prime Evil Soul
+ItemDisplay[dcbl]: %PURPLE%+ %RED%Pure Demonic Essence %PURPLE%+%MAP-62%{%TAN%Drops from map bosses%NL%%NL%& Prime Evil Soul%NL%Cube w/ Black Soulstone} // Pure Demonic Essence
 ItemDisplay[dcma]: %PURPLE%+ %RED%Vision of Terror %PURPLE%+%MAP-62%{%TAN%to fight Uber Diablo!%NL%Right-click in Act 5 town%NL%%NL%Requires level 75} // Vision of Terror
 
 // +----------------------------------------------------------------------------+
@@ -314,9 +314,9 @@ ItemDisplay[gcv]: %PURPLE%+%WHITE%Chipped %PURPLE%Amethyst%WHITE%{%TAN%3 Chipped
 ItemDisplay[gfv]: %PURPLE%+%WHITE%Flawed %PURPLE%Amethyst%WHITE%{%TAN%3 Flawed Amethyst = Amethyst} // Flawed Amethyst
 ItemDisplay[gsv]: %PURPLE%+%PURPLE%Amethyst%WHITE%{%TAN%3 Amethyst = Flawless Amethyst} // Amethyst ("Normal")
 ItemDisplay[gzv]: %PURPLE%+%WHITE%Flawless %PURPLE%Amethyst%WHITE%%DOT-20%{%TAN%3 Flawless Amethyst = Perfect Amethyst} // Flawless Amethyst
-ItemDisplay[gzvs]: %PURPLE%+%WHITE%Flawless %PURPLE%Amethyst x%QTY%%WHITE%%DOT-20%{%TAN%3 Flawless Amethyst = Perfect Amethyst%NL%%NL%%WHITE%Shields: +24 Defense%NL%Armor/Helms: +8 Strength%NL%Weapons: +100 Attack Rating%NL%} // Stacked Flawless Amethyst
+ItemDisplay[gzvs]: %PURPLE%+%WHITE%Flawless %PURPLE%Amethyst %WHITE%%DOT-20%{%TAN%3 Flawless Amethyst = Perfect Amethyst%NL%%NL%%WHITE%Shields: +24 Defense%NL%Armor/Helms: +8 Strength%NL%Weapons: +100 Attack Rating%NL%} // Stacked Flawless Amethyst
 ItemDisplay[gpv]: %PURPLE%+%WHITE%Perfect %PURPLE%Amethyst%WHITE%%DOT-20%{%TAN%Used in Caster crafting} // Flawless Amethyst
-ItemDisplay[gpvs]: %PURPLE%+%WHITE%Perfect %PURPLE%Amethyst x%QTY%%WHITE%%DOT-20%{%TAN%Used in Caster crafting%NL%%NL%%WHITE%Shields: +30 Defense%NL%Armor/Helms: +10 Strength%NL%Weapons: +150 Attack Rating%NL%} // Stacked Flawless Amethyst
+ItemDisplay[gpvs]: %PURPLE%+%WHITE%Perfect %PURPLE%Amethyst %WHITE%%DOT-20%{%TAN%Used in Caster crafting%NL%%NL%%WHITE%Shields: +30 Defense%NL%Armor/Helms: +10 Strength%NL%Weapons: +150 Attack Rating%NL%} // Stacked Flawless Amethyst
 
 // ------------------------------------------------------------------------------
 // [GEDI] Diamond
@@ -325,9 +325,9 @@ ItemDisplay[gcw]: %WHITE%+%WHITE%Chipped %WHITE%Diamond%WHITE%{%TAN%3 Chipped Di
 ItemDisplay[gfw]: %WHITE%+%WHITE%Flawed %WHITE%Diamond%WHITE%{%TAN%3 Flawed Diamond = Diamond} // Flawed Diamond
 ItemDisplay[gsw]: %WHITE%+%WHITE%Diamond%WHITE%{%TAN%3 Diamond = Flawless Diamond} // Diamond ("Normal")
 ItemDisplay[glw]: %WHITE%+%WHITE%Flawless %WHITE%Diamond%WHITE%%DOT-20%{%TAN%3 Flawless Diamond = Perfect Diamond} // Flawless Diamond
-ItemDisplay[glws]: %WHITE%+%WHITE%Flawless %WHITE%Diamond x%QTY%%WHITE%%DOT-20%{%TAN%3 Flawless Diamond = Perfect Diamond%NL%%NL%%WHITE%Shield: Res +14%NL%Armor/Helm: +80 Attack Rating%NL%Weapon: +54% Dmg to Undead%NL%} // Stacked Flawless Diamond
+ItemDisplay[glws]: %WHITE%+%WHITE%Flawless %WHITE%Diamond %WHITE%%DOT-20%{%TAN%3 Flawless Diamond = Perfect Diamond%NL%%NL%%WHITE%Shield: Res +14%NL%Armor/Helm: +80 Attack Rating%NL%Weapon: +54% Dmg to Undead%NL%} // Stacked Flawless Diamond
 ItemDisplay[gpw]: %WHITE%+%WHITE%Perfect %WHITE%Diamond%WHITE%%DOT-20% // Perfect Diamond
-ItemDisplay[gpws]: %WHITE%+%WHITE%Perfect %WHITE%Diamond x%QTY%%WHITE%%DOT-20%{%WHITE%Shields: All Resist +19%NL%Armor/Helms: +100 Attack Rating%NL%Weapons: +68% Damage to Undead%NL%} // Stacked Perfect Diamond
+ItemDisplay[gpws]: %WHITE%+%WHITE%Perfect %WHITE%Diamond %WHITE%%DOT-20%{%WHITE%Shields: All Resist +19%NL%Armor/Helms: +100 Attack Rating%NL%Weapons: +68% Damage to Undead%NL%} // Stacked Perfect Diamond
 
 // ------------------------------------------------------------------------------
 // [GEEM] Emerald
@@ -336,9 +336,9 @@ ItemDisplay[gcg]: %GREEN%+%WHITE%Chipped %GREEN%Emerald%WHITE%{%TAN%3 Chipped Em
 ItemDisplay[gfg]: %GREEN%+%WHITE%Flawed %GREEN%Emerald%WHITE%{%TAN%3 Flawed Emerald = Emerald} // Flawed Emerald
 ItemDisplay[gsg]: %GREEN%+%GREEN%Emerald%WHITE%{%TAN%3 Emerald = Flawless Emerald} // Emerald ("Normal")
 ItemDisplay[glg]: %GREEN%+%WHITE%Flawless %GREEN%Emerald%WHITE%%DOT-20%{%TAN%3 Flawless Emerald = Perfect Emerald} // Flawless Emerald
-ItemDisplay[glgs]: %GREEN%+%WHITE%Flawless %GREEN%Emerald x%QTY%%WHITE%%DOT-20%{%TAN%3 Flawless Emerald = Perfect Emerald%NL%%NL%%WHITE%Shields: Psn Res +28%%NL%Armor/Helms: +8 Dexterity%NL%Weapons: +60 psn over 6 secs%NL%} // Stacked Flawless Emerald
+ItemDisplay[glgs]: %GREEN%+%WHITE%Flawless %GREEN%Emerald %WHITE%%DOT-20%{%TAN%3 Flawless Emerald = Perfect Emerald%NL%%NL%%WHITE%Shields: Psn Res +28%%NL%Armor/Helms: +8 Dexterity%NL%Weapons: +60 psn over 6 secs%NL%} // Stacked Flawless Emerald
 ItemDisplay[gpg]: %GREEN%+%WHITE%Perfect %GREEN%Emerald%WHITE%%DOT-20%{%TAN%Used in Safety crafting} // Perfect Emerald
-ItemDisplay[gpgs]: %GREEN%+%WHITE%Perfect %GREEN%Emerald x%QTY%%WHITE%%DOT-20%{%TAN%Used in Safety crafting%NL%%NL%%WHITE%Shields: Poison Resist +40%%NL%Armor/Helms: +10 Dexterity%NL%Weapons: +100 poison damage over 7 secs%NL%} // Stacked Perfect Emerald
+ItemDisplay[gpgs]: %GREEN%+%WHITE%Perfect %GREEN%Emerald %WHITE%%DOT-20%{%TAN%Used in Safety crafting%NL%%NL%%WHITE%Shields: Poison Resist +40%%NL%Armor/Helms: +10 Dexterity%NL%Weapons: +100 poison damage over 7 secs%NL%} // Stacked Perfect Emerald
 
 // ------------------------------------------------------------------------------
 // [GERU] Ruby
@@ -347,9 +347,9 @@ ItemDisplay[gcr]: %RED%+%WHITE%Chipped %RED%Ruby%WHITE%{%TAN%3 Chipped Ruby = Fl
 ItemDisplay[gfr]: %RED%+%WHITE%Flawed %RED%Ruby%WHITE%{%TAN%3 Flawed Ruby = Ruby} // Flawed Ruby
 ItemDisplay[gsr]: %RED%+%RED%Ruby%WHITE%{%TAN%3 Ruby = Flawless Ruby} // Ruby ("Normal")
 ItemDisplay[glr]: %RED%+%WHITE%Flawless %RED%Ruby%WHITE%%DOT-20%{%TAN%3 Flawless Ruby = Perfect Ruby} // Flawless Ruby
-ItemDisplay[glrs]: %RED%+%WHITE%Flawless %RED%Ruby x%QTY%%WHITE%%DOT-20%{%TAN%3 Flawless Ruby = Perfect Ruby%NL%%NL%%WHITE%Shields: Fire Resist +28%%NL%Armor/Helms: +31 Life%NL%Weapons: Adds 10-16 fire damage%NL%} // Stacked Flawless Ruby
+ItemDisplay[glrs]: %RED%+%WHITE%Flawless %RED%Ruby %WHITE%%DOT-20%{%TAN%3 Flawless Ruby = Perfect Ruby%NL%%NL%%WHITE%Shields: Fire Resist +28%%NL%Armor/Helms: +31 Life%NL%Weapons: Adds 10-16 fire damage%NL%} // Stacked Flawless Ruby
 ItemDisplay[gpr]: %RED%+%WHITE%Perfect %RED%Ruby%WHITE%%DOT-20%{%TAN%Used in Blood crafting} // Perfect Ruby
-ItemDisplay[gprs]: %RED%+%WHITE%Perfect %RED%Ruby x%QTY%%WHITE%%DOT-20%{%TAN%Used in Blood crafting%NL%%NL%%WHITE%Shields: Fire Resist +40%%NL%Armor/Helms: +38 Life%NL%Weapons: Adds 15-20 fire damage%NL%} // Stacked Perfect Ruby
+ItemDisplay[gprs]: %RED%+%WHITE%Perfect %RED%Ruby %WHITE%%DOT-20%{%TAN%Used in Blood crafting%NL%%NL%%WHITE%Shields: Fire Resist +40%%NL%Armor/Helms: +38 Life%NL%Weapons: Adds 15-20 fire damage%NL%} // Stacked Perfect Ruby
 
 // ------------------------------------------------------------------------------
 // [GESA] Sapphire
@@ -358,9 +358,9 @@ ItemDisplay[gcb]: %BLUE%+%WHITE%Chipped %BLUE%Sapphire%WHITE%{%TAN%3 Chipped Sap
 ItemDisplay[gfb]: %BLUE%+%WHITE%Flawed %BLUE%Sapphire%WHITE%{%TAN%3 Flawed Sapphire = Sapphire} // Flawed Sapphire
 ItemDisplay[gsb]: %BLUE%+%BLUE%Sapphire%WHITE%{%TAN%3 Sapphire = Flawless Sapphire} // Sapphire ("Normal")
 ItemDisplay[glb]: %BLUE%+%WHITE%Flawless %BLUE%Sapphire%WHITE%%DOT-20%{%TAN%3 Flawless Sapphire = Perfect Sapphire} // Flawless Sapphire
-ItemDisplay[glbs]: %BLUE%+%WHITE%Flawless %BLUE%Sapphire x%QTY%%WHITE%%DOT-20%{%TAN%3 Flawless Sapphire = Perfect Sapphire%NL%%NL%%WHITE%Shields: Cold Res +28%%NL%Armor/Helms: +31 Mana%NL%Weapons: Adds 6-10 cold dmg%NL%} // Stacked Flawless Sapphire
+ItemDisplay[glbs]: %BLUE%+%WHITE%Flawless %BLUE%Sapphire %WHITE%%DOT-20%{%TAN%3 Flawless Sapphire = Perfect Sapphire%NL%%NL%%WHITE%Shields: Cold Res +28%%NL%Armor/Helms: +31 Mana%NL%Weapons: Adds 6-10 cold dmg%NL%} // Stacked Flawless Sapphire
 ItemDisplay[gpb]: %BLUE%+%WHITE%Perfect %BLUE%Sapphire%WHITE%%DOT-20%{%TAN%Used in Hit Power crafting} // Perfect Sapphire
-ItemDisplay[gpbs]: %BLUE%+%WHITE%Perfect %BLUE%Sapphire x%QTY%%WHITE%%DOT-20%{%TAN%Used in Hit Power crafting%NL%%NL%%WHITE%Shields: Cold Resist +40%%NL%Armor/Helms: +38 Mana%NL%Weapons: Adds 10-14 cold damage%NL%} // Stacked Perfect Sapphire
+ItemDisplay[gpbs]: %BLUE%+%WHITE%Perfect %BLUE%Sapphire %WHITE%%DOT-20%{%TAN%Used in Hit Power crafting%NL%%NL%%WHITE%Shields: Cold Resist +40%%NL%Armor/Helms: +38 Mana%NL%Weapons: Adds 10-14 cold damage%NL%} // Stacked Perfect Sapphire
 
 // ------------------------------------------------------------------------------
 // [GESK] Skull
@@ -369,9 +369,9 @@ ItemDisplay[skc]: %GRAY%+%WHITE%Chipped %GRAY%Skull%WHITE%{%TAN%3 Chipped Skull 
 ItemDisplay[skf]: %GRAY%+%WHITE%Flawed %GRAY%Skull%WHITE%{%TAN%3 Flawed Skull = Skull} // Flawed Skull
 ItemDisplay[sku]: %GRAY%+%GRAY%Skull%WHITE%{%TAN%3 Skull = Flawless Skull} // Skull ("Normal")
 ItemDisplay[skl]: %GRAY%+%WHITE%Flawless %GRAY%Skull%WHITE%%DOT-20%{%TAN%3 Flawless Skull = Perfect Skull} // Flawless Skull
-ItemDisplay[skls]: %GRAY%+%WHITE%Flawless %GRAY%Skull x%QTY%%WHITE%%DOT-20%{%TAN%3 Flawless Skull = Perfect Skull%NL%%NL%%WHITE%Shield: ATDO 16%NL%Armor/Helm: Mana Reg 12%, Rep Life +4%NL%Wep: 3% Life & Mana steal%NL%} // Stacked Flawless Skull
+ItemDisplay[skls]: %GRAY%+%WHITE%Flawless %GRAY%Skull %WHITE%%DOT-20%{%TAN%3 Flawless Skull = Perfect Skull%NL%%NL%%WHITE%Shield: ATDO 16%NL%Armor/Helm: Mana Reg 12%, Rep Life +4%NL%Wep: 3% Life & Mana steal%NL%} // Stacked Flawless Skull
 ItemDisplay[skz]: %GRAY%+%WHITE%Perfect %GRAY%Skull%WHITE%%DOT-20% // Perfect Skull
-ItemDisplay[skzs]: %GRAY%+%WHITE%Perfect %GRAY%Skull x%QTY%%WHITE%%DOT-20%{%WHITE%Shields: Attacker Takes Damage of 20%NL%Armor/Helms: Regen Mana 19%, Rep Life +5%NL%Weapons: 4% Life & 3% Mana steal%NL%} // Stacked Perfect Skull
+ItemDisplay[skzs]: %GRAY%+%WHITE%Perfect %GRAY%Skull %WHITE%%DOT-20%{%WHITE%Shields: Attacker Takes Damage of 20%NL%Armor/Helms: Regen Mana 19%, Rep Life +5%NL%Weapons: 4% Life & 3% Mana steal%NL%} // Stacked Perfect Skull
 
 // ------------------------------------------------------------------------------
 // [GETO] Topaz
@@ -380,9 +380,9 @@ ItemDisplay[gcy]: %YELLOW%+%WHITE%Chipped %YELLOW%Topaz%WHITE%{%TAN%3 Chipped To
 ItemDisplay[gfy]: %YELLOW%+%WHITE%Flawed %YELLOW%Topaz%WHITE%{%TAN%3 Flawed Topaz = Topaz} // Flawed Topaz
 ItemDisplay[gsy]: %YELLOW%+%YELLOW%Topaz%WHITE%{%TAN%3 Topaz = Flawless Topaz} // Topaz ("Normal")
 ItemDisplay[gly]: %YELLOW%+%WHITE%Flawless %YELLOW%Topaz%WHITE%%DOT-20%{%TAN%3 Flawless Topaz = Perfect Topaz} // Flawless Topaz
-ItemDisplay[glys]: %YELLOW%+%WHITE%Flawless %YELLOW%Topaz x%QTY%%WHITE%%DOT-20%{%TAN%3 Flawless Topaz = Perfect Topaz%NL%%NL%%WHITE%Shields: Light Res +28%%NL%Armor/Helms: 20% Magic Find%NL%Weps: Add 1-30 lightning dmg%NL%} // Stacked Flawless Topaz
+ItemDisplay[glys]: %YELLOW%+%WHITE%Flawless %YELLOW%Topaz %WHITE%%DOT-20%{%TAN%3 Flawless Topaz = Perfect Topaz%NL%%NL%%WHITE%Shields: Light Res +28%%NL%Armor/Helms: 20% Magic Find%NL%Weps: Add 1-30 lightning dmg%NL%} // Stacked Flawless Topaz
 ItemDisplay[gpy]: %YELLOW%+%WHITE%Perfect %YELLOW%Topaz%WHITE%%DOT-20% // Perfect Topaz
-ItemDisplay[gpys]: %YELLOW%+%WHITE%Perfect %YELLOW%Topaz x%QTY%%WHITE%%DOT-20%{%WHITE%Shields: Lightning Resist +40%%NL%Armor/Helms: 24% Better Chance of Getting Magic Items%NL%Weapons: Adds 1-40 lightning damage%NL%} // Stacked Perfect Topaz
+ItemDisplay[gpys]: %YELLOW%+%WHITE%Perfect %YELLOW%Topaz %WHITE%%DOT-20%{%WHITE%Shields: Lightning Resist +40%%NL%Armor/Helms: 24% Better Chance of Getting Magic Items%NL%Weapons: Adds 1-40 lightning damage%NL%} // Stacked Perfect Topaz
 
 // +----------------------------------------------------------------------------+
 // |                                                                            |
@@ -395,7 +395,7 @@ ItemDisplay[gpys]: %YELLOW%+%WHITE%Perfect %YELLOW%Topaz x%QTY%%WHITE%%DOT-20%{%
 ItemDisplay[RUNE<10]: %DARK_GREEN%%RUNENAME% %DARK_GREEN%(%RUNENUM%)%DOT-76%%CONTINUE% // El-Ort
 ItemDisplay[RUNE>9 RUNE<24]: %ORANGE%%RUNENAME% %ORANGE%(%RUNENUM%)%MAP-0B%%CONTINUE% // Thul-Mal
 ItemDisplay[RUNE>23]: %RED%%RUNENAME% %RED%(%RUNENUM%)%BORDER-50%%CONTINUE% // Ist-Zod
-ItemDisplay[RUNE>0 QTY>0]: %NAME% x%QTY%%CONTINUE% // Shows the quantity of runes for stacking purposes
+ItemDisplay[RUNE>0 QTY>1]: %NAME% x%QTY%%CONTINUE% // Shows the quantity of runes for stacking purposes
 
 // ------------------------------------------------------------------------------
 // [RUDE] Rune descriptions
