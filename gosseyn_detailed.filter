@@ -226,12 +226,12 @@ ItemDisplay[lbox]: %PURPLE%+ %RED%Larzuks Puzzlebox x%QTY% %PURPLE%+%RED%%MAP-62
 // [MAPS] Maps
 // ------------------------------------------------------------------------------
 // Maps
-ItemDisplay[ma1]: %NAME% %DARK-GREEN%T?%NOTIFY-ORANGE% //	Dark Cavern Relic - Removed Patch 12
-ItemDisplay[ma2]: %NAME% %DARK-RED%T4%NOTIFY-ORANGE% // Forgotten Desert - Tier 4
-ItemDisplay[ma3]: %NAME% %DARK-GREEN%T?%NOTIFY-ORANGE% // Abandoned Precinct Relic - Removed Patch 12
-ItemDisplay[ma4]: %NAME% %DARK-GREEN%T1%NOTIFY-ORANGE% // Desecrated Temple Relic - Tier 1
-ItemDisplay[ma5]: %NAME% %DARK-GREEN%T2%NOTIFY-ORANGE% // Frigid Plateau Relic - Tier 2
-ItemDisplay[ma6]: %NAME% %DARK-GREEN%T3%NOTIFY-ORANGE% // Runed Chapel - Tier 3
+ItemDisplay[ma1]: %NAME% %DARK_GREEN%T?%NOTIFY-ORANGE% //	Dark Cavern Relic - Removed Patch 12
+ItemDisplay[ma2]: %NAME% %RED%T4%NOTIFY-ORANGE% // Forgotten Desert - Tier 4
+ItemDisplay[ma3]: %NAME% %DARK_GREEN%T?%NOTIFY-ORANGE% // Abandoned Precinct Relic - Removed Patch 12
+ItemDisplay[ma4]: %NAME% %DARK_GREEN%T1%NOTIFY-ORANGE% // Desecrated Temple Relic - Tier 1
+ItemDisplay[ma5]: %NAME% %DARK_GREEN%T2%NOTIFY-ORANGE% // Frigid Plateau Relic - Tier 2
+ItemDisplay[ma6]: %NAME% %DARK_GREEN%T3%NOTIFY-ORANGE% // Runed Chapel - Tier 3
 ItemDisplay[ma7 or ma8 or ma9 or ma10]: %NAME% voir filtre%NOTIFY-ORANGE% // A voir
 
 // ------------------------------------------------------------------------------
