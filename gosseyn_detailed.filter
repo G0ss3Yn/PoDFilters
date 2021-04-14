@@ -211,17 +211,6 @@ ItemDisplay[std]: %NAME% %MAP-68%{%TAN%+20% Magic/Gold Find%NL%+20% Monster Dens
 // ------------------------------------------------------------------------------
 ItemDisplay[cx5]: %RED%+ %PURPLE%Orb of Corruption %RED%+%NOTIFY-PURPLE%{%TAN%Socketable Item: 25% Mod, 25% Brick, 25% Sockets, 25% No Change%NL%Unsocketable Item: 25% Mod, 25% Brick, 50% No Change%NL%Maps: %Unknown%NL%%ORANGE%Cube w/ item to corrupt} // Orb of corruption
 
-// +----------------------------------------------------------------------------+
-// |                                                                            |
-// |     [PD2N] Map Items                                                       |
-// |                                                                            |
-// +----------------------------------------------------------------------------+
-// ------------------------------------------------------------------------------
-// [CORR] Corruption Items
-// ------------------------------------------------------------------------------
-ItemDisplay[wss]: %PURPLE%+ %RED%Worldstone Shard x%QTY% %PURPLE%+%RED%%MAP-62%{%TAN%Unsock Item: 50% Mod, 25% Brick, 25% Sockets%NL%Sock Item: 75% Mod, 25% Brick%NL%Maps: 70% Mod, 30% CNC%NL%%ORANGE%Cube w/ item to corrupt} // Worldstone Shard
-ItemDisplay[lbox]: %PURPLE%+ %RED%Larzuks Puzzlebox x%QTY% %PURPLE%+%RED%%MAP-62%{%TAN%Armors: 0-2%NL%2H Weapons: 0-4%NL%1H Weapons: 0-2%NL%%ORANGE%Cube w/ unsocketed item to roll sockets} // Larzuk's Box
-
 // ------------------------------------------------------------------------------
 // [MAPS] Maps
 // ------------------------------------------------------------------------------
@@ -233,6 +222,25 @@ ItemDisplay[ma4]: %NAME% %DARK_GREEN%T1%NOTIFY-ORANGE% // Desecrated Temple Reli
 ItemDisplay[ma5]: %NAME% %DARK_GREEN%T2%NOTIFY-ORANGE% // Frigid Plateau Relic - Tier 2
 ItemDisplay[ma6]: %NAME% %DARK_GREEN%T3%NOTIFY-ORANGE% // Runed Chapel - Tier 3
 ItemDisplay[ma7 or ma8 or ma9 or ma10]: %NAME% voir filtre%NOTIFY-ORANGE% // A voir
+
+// Stuff au cas où
+ItemDisplay[cm4]: %NAME%%NOTIFY-ORANGE% // Hoardrim Sigil (enchant charm)
+ItemDisplay[cx7]: %NAME%%NOTIFY-ORANGE% // Key of Chaos
+ItemDisplay[cx6]: %NAME%%NOTIFY-ORANGE% // Diablo soulstone
+ItemDisplay[cx8]: %NAME%%NOTIFY-ORANGE% // Orb of enchantment
+
+// +----------------------------------------------------------------------------+
+// |                                                                            |
+// |     [PD2N] Map Items                                                       |
+// |                                                                            |
+// +----------------------------------------------------------------------------+
+// ------------------------------------------------------------------------------
+// [CORR] Corruption Items
+// ------------------------------------------------------------------------------
+ItemDisplay[wss]: %PURPLE%+ %RED%Worldstone Shard x%QTY% %PURPLE%+%RED%%MAP-62%{%TAN%Unsock Item: 50% Mod, 25% Brick, 25% Sockets%NL%Sock Item: 75% Mod, 25% Brick%NL%Maps: 70% Mod, 30% CNC%NL%%ORANGE%Cube w/ item to corrupt} // Worldstone Shard
+ItemDisplay[lbox]: %PURPLE%+ %RED%Larzuks Puzzlebox x%QTY% %PURPLE%+%RED%%MAP-62%{%TAN%Armors: 0-2%NL%2H Weapons: 0-4%NL%1H Weapons: 0-2%NL%%ORANGE%Cube w/ unsocketed item to roll sockets} // Larzuk's Box
+
+
 
 // ------------------------------------------------------------------------------
 // [MAPI] Map Items
