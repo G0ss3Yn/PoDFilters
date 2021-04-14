@@ -45,6 +45,8 @@
 // |      [QITO] Tokens                      |      [UICS] Unique Class Specific       |         [SIBA] Berserker's Arsenal      |      [RICS] Rare Class Specific         |
 // |      [QIKE] Pandemonium Keys            |         [UCAM] Amazon                   |         [SICT] Cathan's Traps           |         [RCAM] Amazon                   |
 // |      [QIOR] Pandemonium Organs          |         [UCAS] Assassin                 |         [SICV] Civerb's Vestments       |         [RCAS] Assassin                 |
+// |   [PODN] Path of Diablo Items           |         
+// |      [PCOR] Corruption Items            |         
 // |   [PD2N] Project Diablo 2 Items         |         [UCBA] Barbarian                |         [SICB] Cleglaw's Brace          |         [RCBA] Barbarian                |
 // |      [CORR] Corruption Items            |         [UCDR] Druid                    |         [SIDD] Death's Disguise         |         [RCDR] Druid                    |
 // |      [MAPI] Map Items                   |         [UCNE] Necromancer              |         [SIHD] Hsarus' Defense          |         [RCNE] Necromancer              |
@@ -198,6 +200,16 @@ ItemDisplay[mbr]: %ORANGE%%NAME% %MAP-68%{%TAN%Act 5 to open Uber Trist%NL%Cube 
 ItemDisplay[dhn]: %ORANGE%%NAME% %MAP-68%{%TAN%Act 5 to open Uber Trist%NL%Cube any 3 organs in%NL%} // Diablo's Horn
 ItemDisplay[bey]: %ORANGE%%NAME% %MAP-68%{%TAN%Act 5 to open Uber Trist%NL%Cube any 3 organs in%NL%} // Baal's Eye
 ItemDisplay[std]: %NAME% %MAP-68%{%TAN%+20% Magic/Gold Find%NL%+20% Monster Density%NL%+10% Experience%NL%%ORANGE%Cube w/ a map to gain%DARK_GREEN% Heroic%ORANGE% bonus:} // Standard of Heroes
+
+// +----------------------------------------------------------------------------+
+// |                                                                            |
+// |     [PODN] Path of diablo items                                            |
+// |                                                                            |
+// +----------------------------------------------------------------------------+
+// ------------------------------------------------------------------------------
+// [PCOR] Corruption Items
+// ------------------------------------------------------------------------------
+ItemDisplay[cx5]: %RED%+ %PURPLE%Orb of Corruption %RED%+%NOTIFY-PURPLE%{%TAN%Socketable Item: 25% Mod, 25% Brick, 25% Sockets, 25% No Change%NL%Unsocketable Item: 25% Mod, 25% Brick, 50% No Change%NL%Maps: %Unknown%NL%%ORANGE%Cube w/ item to corrupt} // Orb of corruption
 
 // +----------------------------------------------------------------------------+
 // |                                                                            |
