@@ -189,9 +189,9 @@ ItemDisplay[toa]: %ORANGE%Token of Absolution%MAP-68%{%TAN%Right click to reset 
 // ------------------------------------------------------------------------------
 // [QIKE] Pandemonium Keys
 // ------------------------------------------------------------------------------
-ItemDisplay[pk1]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Countess & Blood Raven%NL%Cube w/ Destruction & Hate keys in Act 5%NL%} // Key of Terror
-ItemDisplay[pk2]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Summoner & Bloodwitch the Wild%NL%Cube w/ Destruction & Terror keys in Act 5%NL%} // Key of Hate
-ItemDisplay[pk3]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Nihlathak & Izual%NL%Cube w/ Hate & Terror keys in Act 5%NL%} // Key of Destruction
+ItemDisplay[pk1]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Countess%NL%Cube w/ Destruction & Hate keys in Act 5%NL%} // Key of Terror
+ItemDisplay[pk2]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Summoner%NL%Cube w/ Destruction & Terror keys in Act 5%NL%} // Key of Hate
+ItemDisplay[pk3]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Nihlathak%NL%Cube w/ Hate & Terror keys in Act 5%NL%} // Key of Destruction
 
 // ------------------------------------------------------------------------------
 // [QIOR] Pandemonium Organs
