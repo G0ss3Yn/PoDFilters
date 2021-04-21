@@ -189,9 +189,9 @@ ItemDisplay[toa]: %ORANGE%Token of Absolution%MAP-68%{%TAN%Right click to reset 
 // ------------------------------------------------------------------------------
 // [QIKE] Pandemonium Keys
 // ------------------------------------------------------------------------------
-ItemDisplay[pk1]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Countess%NL%Cube w/ Destruction & Hate keys in Act 5%NL%} // Key of Terror
-ItemDisplay[pk2]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Summoner%NL%Cube w/ Destruction & Terror keys in Act 5%NL%} // Key of Hate
-ItemDisplay[pk3]: %ORANGE%%NAME% %MAP-68%{%TAN%Drops from Nihlathak%NL%Cube w/ Hate & Terror keys in Act 5%NL%} // Key of Destruction
+ItemDisplay[pk1]: %ORANGE%%NAME% %NOTIFY-ORANGE%{%TAN%Drops from Countess%NL%Cube w/ Destruction & Hate keys in Act 5%NL%} // Key of Terror
+ItemDisplay[pk2]: %ORANGE%%NAME% %NOTIFY-ORANGE%{%TAN%Drops from Summoner%NL%Cube w/ Destruction & Terror keys in Act 5%NL%} // Key of Hate
+ItemDisplay[pk3]: %ORANGE%%NAME% %NOTIFY-ORANGE%{%TAN%Drops from Nihlathak%NL%Cube w/ Hate & Terror keys in Act 5%NL%} // Key of Destruction
 
 // ------------------------------------------------------------------------------
 // [QIOR] Pandemonium Organs
@@ -215,19 +215,24 @@ ItemDisplay[cx5]: %RED%+ %PURPLE%Orb of Corruption %RED%+%NOTIFY-PURPLE%{%TAN%So
 // [MAPS] Maps
 // ------------------------------------------------------------------------------
 // Maps
-ItemDisplay[ma1]: %NAME% %DARK_GREEN%T?%NOTIFY-ORANGE% //	Dark Cavern Relic - Removed Patch 12
-ItemDisplay[ma2]: %NAME% %RED%T4%NOTIFY-ORANGE% // Forgotten Desert - Tier 4
-ItemDisplay[ma3]: %NAME% %DARK_GREEN%T?%NOTIFY-ORANGE% // Abandoned Precinct Relic - Removed Patch 12
-ItemDisplay[ma4]: %NAME% %DARK_GREEN%T1%NOTIFY-ORANGE% // Desecrated Temple Relic - Tier 1
-ItemDisplay[ma5]: %NAME% %DARK_GREEN%T2%NOTIFY-ORANGE% // Frigid Plateau Relic - Tier 2
-ItemDisplay[ma6]: %NAME% %DARK_GREEN%T3%NOTIFY-ORANGE% // Runed Chapel - Tier 3
-ItemDisplay[ma7 or ma8 or ma9 or ma10]: %NAME% voir filtre%NOTIFY-ORANGE% // A voir
+ItemDisplay[MAP]: %RED%>>%CONTINUE%
+ItemDisplay[ma1]: %RED%+ %WHITE%%NAME% %DARK_GREEN%T?%NOTIFY-ORANGE%{%TAN%T?%NL%Dark Cavern Relic%NL%} //	Dark Cavern Relic - Removed Patch 12
+ItemDisplay[ma2]: %RED%+ %WHITE%%NAME% %RED%T4%NOTIFY-ORANGE%{%TAN%T4%NL%Forgotten Desert%NL%} // Forgotten Desert - Tier 4
+ItemDisplay[ma3]: %RED%+ %WHITE%%NAME% %DARK_GREEN%T?%NOTIFY-ORANGE%{%TAN%T?%NL%Abandoned Precinct Relic%NL%} // Abandoned Precinct Relic - Removed Patch 12
+ItemDisplay[ma4]: %RED%+ %WHITE%%NAME% %DARK_GREEN%T1%NOTIFY-ORANGE%{%TAN%T1%NL%Desecrated Temple Relic%NL%} // Desecrated Temple Relic - Tier 1
+ItemDisplay[ma5]: %RED%+ %WHITE%%NAME% %DARK_GREEN%T2%NOTIFY-ORANGE%{%TAN%T2%NL%Frigid Plateau Relic%NL%} // Frigid Plateau Relic - Tier 2
+ItemDisplay[ma6]: %RED%+ %WHITE%%NAME% %DARK_GREEN%T3%NOTIFY-ORANGE%{%TAN%T3%NL%Runed Chapel%NL%} // Runed Chapel - Tier 3
+ItemDisplay[ma7]: %RED%+ %WHITE%%NAME% voir filtre%NOTIFY-ORANGE%{%TAN%T?%NL%Voir Filtre !!%NL%} // A voir
+ItemDisplay[ma8]: %RED%+ %WHITE%%NAME% voir filtre%NOTIFY-ORANGE%{%TAN%T?%NL%Voir Filtre !!%NL%} // A voir
+ItemDisplay[ma9]: %RED%+ %WHITE%%NAME% voir filtre%NOTIFY-ORANGE%{%TAN%T?%NL%Voir Filtre !!%NL%} // A voir
+ItemDisplay[ma10]: %RED%+ %WHITE%%NAME% voir filtre%NOTIFY-ORANGE%{%TAN%T?%NL%Voir Filtre !!%NL%} // A voir
 
 // Stuff au cas où
-ItemDisplay[cm4]: %NAME%%NOTIFY-ORANGE% // Hoardrim Sigil (enchant charm)
-ItemDisplay[cx7]: %NAME%%NOTIFY-ORANGE% // Key of Chaos
-ItemDisplay[cx6]: %NAME%%NOTIFY-ORANGE% // Diablo soulstone
-ItemDisplay[cx8]: %NAME%%NOTIFY-ORANGE% // Orb of enchantment
+ItemDisplay[cm4]: %RED%%NAME%%NOTIFY-ORANGE% // Hoardrim Sigil (enchant charm)
+ItemDisplay[cx7]: %RED%%NAME%%NOTIFY-ORANGE% // Key of Chaos
+ItemDisplay[cx6]: %RED%%NAME%%NOTIFY-ORANGE% // Diablo soulstone
+ItemDisplay[cx8]: %RED%%NAME%%NOTIFY-ORANGE% // Orb of enchantment
+ItemDisplay[maz]: %RED%%NAME%%NOTIFY-ORANGE% //Infernal Trial
 
 // +----------------------------------------------------------------------------+
 // |                                                                            |
